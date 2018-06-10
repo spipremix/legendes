@@ -1,0 +1,16 @@
+{
+    "name": "spipremix/legendes",
+    "homepage": "https://contrib.spip.net/Legendes",
+    "description": "Légender ses photos",
+    "type": "spip-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [{
+        "name": "Bruno Bergot",
+        "email": "bruno@eliaz.fr"
+    }],
+    "require": {
+        "spip/jquery_ui": "1.11.*",
+        "spip/medias": "2.11.*",
+        "spipremix/saisies": "^2.25"
+    }
+}
